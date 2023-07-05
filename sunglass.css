@@ -1,0 +1,16 @@
+p{
+    background-color: aqua;
+    border-radius: 400px;
+    padding: 10px;
+}
+h3{
+    background-color: aqua;
+}
+head{
+    background-image: url('../sha.jpg');
+}button{
+    background-color: rgb(170, 170, 199);
+}ul{
+    background-color: aquamarine;
+    border: 10px solid;
+}
